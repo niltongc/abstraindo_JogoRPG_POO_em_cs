@@ -1,0 +1,15 @@
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/bin/Debug/net6.0/desafio_rpg
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/bin/Debug/net6.0/desafio_rpg.deps.json
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/bin/Debug/net6.0/desafio_rpg.runtimeconfig.json
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/bin/Debug/net6.0/desafio_rpg.dll
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/bin/Debug/net6.0/desafio_rpg.pdb
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/desafio_rpg.csproj.AssemblyReference.cache
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/desafio_rpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/desafio_rpg.AssemblyInfoInputs.cache
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/desafio_rpg.AssemblyInfo.cs
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/desafio_rpg.csproj.CoreCompileInputs.cache
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/desafio_rpg.dll
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/refint/desafio_rpg.dll
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/desafio_rpg.pdb
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/desafio_rpg.genruntimeconfig.cache
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/rpg_desafio/obj/Debug/net6.0/ref/desafio_rpg.dll
